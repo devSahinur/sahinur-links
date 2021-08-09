@@ -5,17 +5,17 @@ import linkData from '../links.json'
 export default function Home() {
   console.log(linkData)
   return (
-    <div className=" relative flex flex-col w-screen min-h-screen overflow-x-hidden bg-indigo-200 md:justify-center md:items-center">
+    <div className="relative flex flex-col w-screen min-h-screen overflow-x-hidden bg-indigo-200 md:justify-center md:items-center">
       <Head>
         <title>Connect whit Sahinur</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <div className='mt-5'>
+      <div className='!mt-5'>
         <img 
           src="https://avatars.githubusercontent.com/u/68515168?v=4" 
           alt="Sahinur Islam" 
-          className='w-[220px] rounded-full mx-auto'
+          className='w-[150px] rounded-full mx-auto'
         />
         <h2 className='my-3 text-3xl font-bold text-center text-indigo-900 md:text-4xl'>
           Sahinur Islam
