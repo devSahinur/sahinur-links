@@ -5,13 +5,13 @@ import linkData from '../links.json'
 export default function Home() {
   console.log(linkData)
   return (
-    <div className="">
+    <div className=" relative flex flex-col w-screen min-h-screen overflow-x-hidden bg-indigo-200 md:justify-center md:items-center">
       <Head>
         <title>Connect whit Sahinur</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <div>
+      <div className='mt-5'>
         <img 
           src="https://avatars.githubusercontent.com/u/68515168?v=4" 
           alt="Sahinur Islam" 
@@ -21,7 +21,7 @@ export default function Home() {
           Sahinur Islam
         </h2>
       </div>
-      <div>
+      <div className='w-full max-w-lg p-6'>
         {linkData.map(({id, name, image, link}) => (
           <Link
               key={id}
