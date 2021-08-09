@@ -13,7 +13,7 @@ export default function Home() {
 
       <div className='!mt-5'>
         <img 
-          src="https://avatars.githubusercontent.com/u/68515168?v=4" 
+          src="https://i.ibb.co/BTh9gJ5/sahinur-dev.jpg" 
           alt="Sahinur Islam" 
           className='w-[190px] rounded-full mx-auto'
         />

@@ -6,6 +6,7 @@
     "start": "next start"
   },
   "dependencies": {
+    "@bradgarropy/next-seo": "^1.0.0",
     "framer-motion": "^4.1.17",
     "next": "latest",
     "next-pwa": "^5.2.24",
