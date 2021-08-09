@@ -2,21 +2,12 @@
 @tailwind components;
 @tailwind utilities;
 
-@layer utilities {
-  .animation-delay-2000 {
-    animation-delay: 2.5s;
-  }
-  .animation-delay-4000 {
-    animation-delay: 5s;
-  }
-}
-
 body {
   overflow-x: hidden;
 }
 
 ::-webkit-scrollbar {
-  width: 0.8vw;
+  width: 0;
 }
 
 ::-webkit-scrollbar-track {
