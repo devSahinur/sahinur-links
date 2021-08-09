@@ -8,7 +8,7 @@ function MyApp({ Component, pageProps }) {
         title="Connect with Sahinur"
         description="An app with all my social links"
         keywords={["Connect", "links", "PWA"]}
-        icon="/public/sahinur-islam.jpg"
+        icon="/sahinur-islam.jpg"
         facebook={{
           image:
             "https://i.ibb.co/BTh9gJ5/sahinur-dev.jpg",
