@@ -1,4 +1,5 @@
 import Head from 'next/head'
+import Link from '../components/Link'
 import linkData from '../links.json'
 
 export default function Home() {
@@ -21,7 +22,14 @@ export default function Home() {
         </h2>
       </div>
       <div>
-
+        {linkData.map(({id, name, image, link}) => (
+          <Link
+              key={id}
+              name={name}
+              image={image}
+              link={link}
+           />
+        ))}
       </div>
     </div>
   )
