@@ -14,6 +14,9 @@ export default function Home() {
           alt="Sahinur Islam" 
           className='w-[220px] rounded-full mx-auto'
         />
+        <h2 className='my-3 text-3xl font-bold text-center text-indigo-900 md:text-4xl'>
+          Sahinur Islam
+        </h2>
       </div>
       
     </div>
