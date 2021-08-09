@@ -1,0 +1,21 @@
+[
+    {
+    "id": "1",
+    "name": "Follow me on Instagram",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg",
+    "link": "https://www.instagram.com/sahinur_dev"
+    },
+    {
+    "id": "2",
+    "name": "Connect with me on LinkedIn",
+    "image": "https://www.edigitalagency.com.au/wp-content/uploads/Linkedin-logo-icon-png.png",
+    "link": "https://www.linkedin.com/in/sahinur"
+    },
+    {
+    "id": "3",
+    "name": "Follow me on Facebook",
+    "image": "https://commons.wikimedia.org/wiki/Category:Facebook_f_logos#/media/File:FaceB.png",
+    "link": "https://www.facebook.com/dev.sahinur"
+    }
+    
+]

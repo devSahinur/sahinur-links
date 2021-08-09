@@ -1,6 +1,8 @@
 import Head from 'next/head'
+import linkData from '../links.json'
 
 export default function Home() {
+  console.log(linkData)
   return (
     <div className="">
       <Head>
@@ -18,7 +20,9 @@ export default function Home() {
           Sahinur Islam
         </h2>
       </div>
-      
+      <div>
+
+      </div>
     </div>
   )
 }
