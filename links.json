@@ -13,26 +13,26 @@
     },
     {
     "id": "3",
-    "name": "Follow me on Facebook",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/8/84/FaceB.png",
-    "link": "https://www.facebook.com/dev.sahinur"
+    "name": "Look at my project on Github",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg",
+    "link": "https://github.com/devsahinur"
     },
     {
-    "id": "3",
-    "name": "Follow me on Facebook",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/8/84/FaceB.png",
-    "link": "https://www.facebook.com/dev.sahinur"
+    "id": "4",
+    "name": "Follow me on Twitter",
+    "image": "https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-logo-vector-png-clipart-1.png",
+    "link": "https://twitter.com/home"
     },
     {
-    "id": "3",
-    "name": "Follow me on Facebook",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/8/84/FaceB.png",
-    "link": "https://www.facebook.com/dev.sahinur"
+    "id": "5",
+    "name": "Follow me on DEV Community",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/2e/DEV_Community_Badge.svg",
+    "link": "https://dev.to/sahinur"
     },
     {
-    "id": "3",
-    "name": "Follow me on Facebook",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/8/84/FaceB.png",
+    "id": "6",
+    "name": "Checkout my resume",
+    "image": "https://icons-for-free.com/iconfiles/png/512/suitcase+work+icon-1320165848716624003.png",
     "link": "https://www.facebook.com/dev.sahinur"
     }
     
