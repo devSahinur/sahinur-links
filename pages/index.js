@@ -7,7 +7,7 @@ export default function Home() {
   return (
     <div className="relative flex flex-col w-screen min-h-screen overflow-x-hidden bg-indigo-200 md:justify-center md:items-center">
       <Head>
-        <title>Connect whit Sahinur</title>
+        <title>Connect with Sahinur</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
