@@ -40,6 +40,12 @@
     "name": "Checkout my resume",
     "image": "https://icons-for-free.com/iconfiles/png/512/suitcase+work+icon-1320165848716624003.png",
     "link": "https://sahinur.netlify.app/"
+    },
+     {
+    "id": "8",
+    "name": "Buy me a coffee",
+    "image": "https://icons-for-free.com/iconfiles/png/512/coffee-131976794630370875.png",
+    "link": "https://www.buymeacoffee.com/sahinur"
     }
     
 ]
