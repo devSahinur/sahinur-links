@@ -3,7 +3,7 @@
     "id": "1",
     "name": "Follow me on Instagram",
     "image": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg",
-    "link": "https://www.instagram.com/sahinur_dev"
+    "link": "https://www.instagram.com/sahinur.jsx"
     },
     {
     "id": "2",
@@ -41,7 +41,7 @@
     "image": "https://icons-for-free.com/iconfiles/png/512/suitcase+work+icon-1320165848716624003.png",
     "link": "https://sahinur.netlify.app/"
     },
-     {
+    {
     "id": "8",
     "name": "Buy me a coffee",
     "image": "https://icons-for-free.com/iconfiles/png/512/coffee-131976794630370875.png",
